@@ -8,6 +8,6 @@
 <p>This landing page is a placeholder for right now, it can and probably will be changed in the future. </p> 
 <p> ************************************************************************************************************** </p>
 
-<p> ***The Boi part of my username will not be here for much longer, so the URL might be changed to m33p.github.io very soon*** </p>
+<p> <b>***The Boi part of my username will not be here for much longer, so the URL might be changed to m33p.github.io very soon*** </p> </b>
 
 <p> Made by Meep :D </p>
