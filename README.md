@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -41,6 +40,10 @@
         <hr>
         <p>Hello! This is my personal homepage. Here, you'll find information about me, my interests, and much more.</p>
         <p>Feel free to explore and learn more about me.</p>
+        <h2> Interests </h2>
+        <b> Technology </b>
+        <b> Computers </b>
+        <b> Coding </b>
         <hr>
         <p>Contact me: <a href="mailto:sskinner1711@gmail.com">sskinner1711@gmail.com</a></p>
     </div>
