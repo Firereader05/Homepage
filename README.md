@@ -41,9 +41,11 @@
         <p>Hello! This is my personal homepage. Here, you'll find information about me, my interests, and much more.</p>
         <p>Feel free to explore and learn more about me.</p>
         <h2> Interests </h2>
-        <ul> Technology </ul>
-        <ul> Computers </ul>
-        <ul> Coding </ul>
+       <ul>
+        <li> Technology </li>
+        <li> Computers </li>
+        <li> Coding </li>
+       </ul>
         <hr>
         <p>Contact me: <a href="mailto:sskinner1711@gmail.com">sskinner1711@gmail.com</a></p>
     </div>
