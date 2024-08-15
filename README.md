@@ -45,6 +45,7 @@
         <li> Technology </li>
         <li> Computers </li>
         <li> Coding </li>
+           <details> Hello </details>
        </ul>
         <hr>
         <p>Contact me: <a href="mailto:sskinner1711@gmail.com">sskinner1711@gmail.com</a></p>
