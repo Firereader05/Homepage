@@ -44,8 +44,7 @@
        <ul>
         <li> Technology </li>
         <li> Computers </li>
-        <li> Coding </li>
-           <details> Hello </details>
+           <details><summary>Coding</summary> I really like coding. So I made this website for fun. </details>
        </ul>
         <hr>
         <p>Contact me: <a href="mailto:sskinner1711@gmail.com">sskinner1711@gmail.com</a></p>
